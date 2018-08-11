@@ -209,7 +209,7 @@
                         android:layout_height="wrap_content"
                         android:hint="   xxxx/xx/xx"
                         android:ems="10"
-                        android:inputType="textPersonName" />
+                        android:inputType="date" />
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -248,7 +248,7 @@
                         android:layout_height="wrap_content"
                         android:hint="010-1234-5678"
                         android:ems="10"
-                        android:inputType="textPersonName" />
+                        android:inputType="number" />
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -286,7 +286,7 @@
                         android:layout_height="wrap_content"
                         android:hint="namyangju@gmail.com"
                         android:ems="10"
-                        android:inputType="textPersonName" />
+                        android:inputType="textEmailAddress" />
                 </LinearLayout>
             </LinearLayout>
 
